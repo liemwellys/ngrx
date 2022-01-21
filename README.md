@@ -1,6 +1,35 @@
-# NgCompleteGuideUpdate
+# NgRx Sample Project
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 7.3.5.
+A sample project for managing application state using ngrx that available on [Angular - The Complete Guide](https://www.udemy.com/course/the-complete-guide-to-angular-2/) section 25 "Bonus: Working with NgRx in our Project".
+
+## Running Application
+
+### Clone & Running Application
+
+- clone the project repository to your local machine
+- open project directory by using terminal
+- install project dependencies by typing `npm install --no-save` on terminal & press `Enter` key
+  ```
+  npm install --no-save
+  ```
+- run the application by typing `npm run start` on terminal & press `Enter` key
+  ```
+  npm run start
+  ```
+- open browser and navigate to `http://localhost:4200/`
+
+### Login to Application
+
+Use the following username & password to login on the application
+- username: `test@mail.com`
+- password: `123456`
+
+
+### Fetching Recipe Data from Server
+
+- login to application 
+- click `Manage` dropdown on upper right corner of application taskbar
+- click "Fetch Data'
 
 ## Development server
 
